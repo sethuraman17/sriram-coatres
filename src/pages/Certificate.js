@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import './Certificate.css';
 import img1 from './images/cert.png'
 const Services = () => {
