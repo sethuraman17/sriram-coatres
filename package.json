@@ -1,3 +1,7 @@
+"scripts": {
+  "build": "EXTEND_ESLINT=true react-scripts build"
+}
+
 {
   "name": "my-app",
   "version": "0.1.0",
